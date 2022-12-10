@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+# Extensionless files
+*
+!/**/
+!*.*
+
+# VS Code files
+.vscode*
