@@ -17,7 +17,7 @@ This  is a simple introduction to the Git & GitHub workflow.
 
 ## How to Complete the Project ##
 
-1. To get started, fork this repository and cd into it.
+1. To get started, create a fork of this repository and cd into it.
 
    ```
    gh repo fork "https://github.com/SDI1/starter-project"
