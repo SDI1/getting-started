@@ -7,6 +7,7 @@ int main ()
 
     cout << "Hello, Sherpad!\n";
     cout<< "Hello, Isaac\n";
+    cout << "Hello, Derick!\n";
 
     return 0;
 }
